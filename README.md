@@ -1,8 +1,12 @@
 ### Hi there 👋
 🔭 I’m currently working on deep learning architectures.
+
 🌱 I’m currently learning hugging face transformers.
+
 💬 Ask me about deep learning and machine learning
+
 📫 How to reach me: Linkedin : https://www.linkedin.com/in/rahul-geeky/
+
 ⚡ Fun fact: Trying to make something out of data
 
 <!--
