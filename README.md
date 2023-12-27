@@ -7,9 +7,11 @@
 
 📫 How to reach me: 
 
-        Linkedin : https://www.linkedin.com/in/rahul-geeky/
+Linkedin : https://www.linkedin.com/in/rahul-geeky/
         
-        Kaggle : https://www.kaggle.com/rahulabrsl
+Kaggle : https://www.kaggle.com/rahulabrsl
+
+Hugging Face : https://huggingface.co/neural-net-rahul
 
 ⚡ Fun fact: Trying to make something out of data
 
