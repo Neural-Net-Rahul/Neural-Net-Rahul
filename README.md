@@ -1,7 +1,7 @@
 ### Hi there myself Rahul👋
 🔭 I’m currently working on deep learning architectures and Android Apps.
 
-🌱 I’m currently learning hugging face transformers.
+🌱 I’m currently learning Web Development.
 
 💬 Ask me about deep learning, machine learning and Android development.
 
